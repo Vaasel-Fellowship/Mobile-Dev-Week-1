@@ -38,4 +38,7 @@ Introduction to Flutter and Dart
 
 ### Day 5 & 6:
 1. Building simple personal card UI
-2. Sample ![Sample Card UI](https://drive.google.com/uc?export=view&id=1JC0hVt3AxwNassG7ixEvvEQzTOWx4MLn)
+2. Sample 
+![Sample Card UI](https://drive.google.com/uc?export=view&id=1JC0hVt3AxwNassG7ixEvvEQzTOWx4MLn)
+
+For any queries contact us: 
