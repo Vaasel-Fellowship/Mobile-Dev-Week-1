@@ -41,4 +41,4 @@ Introduction to Flutter and Dart
 2. Sample 
 ![Sample Card UI](https://drive.google.com/uc?export=view&id=1JC0hVt3AxwNassG7ixEvvEQzTOWx4MLn)
 
-For any queries contact us: 
+### Submission must be in `Submission` folder
