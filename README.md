@@ -44,6 +44,5 @@ Introduction to Flutter and Dart
 ![Sample 2](https://mir-s3-cdn-cf.behance.net/project_modules/hd/8f297256512097.59b16301a9a93.jpg)
 ![Sample 3](https://cdn.dribbble.com/users/2181377/screenshots/14084662/media/28e5fece035d57f35d49eaa8b8867115.png?compress=1&resize=400x300&vertical=center)
 ![Sample 4](https://www.coremobileapps.com/wp-content/uploads/ssc-mockup-1.png)
-![Sample 5](https://assets.materialup.com/uploads/67a9e715-9724-42ee-a3b5-3ca740548ca6/preview.png)
 
 ### Submission must be in `Submission` folder
