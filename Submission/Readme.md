@@ -1,11 +1,8 @@
 # Title
 Description
 
-## Learning outcomes
-Here
-
 ## Images or Screenshots
 Here
 
-## Note
-Code must be submitted
+## Link to your repo
+Here
