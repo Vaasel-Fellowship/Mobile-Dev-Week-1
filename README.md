@@ -45,4 +45,4 @@ Introduction to Flutter and Dart
 ![Sample 3](https://cdn.dribbble.com/users/2181377/screenshots/14084662/media/28e5fece035d57f35d49eaa8b8867115.png?compress=1&resize=400x300&vertical=center)
 ![Sample 4](https://www.coremobileapps.com/wp-content/uploads/ssc-mockup-1.png)
 
-### Submission must be in `Submission` folder
+### Submission must be in `Submission` folder. Also make repo in your github account with name 'vaasel-fellowship-AppUI' and upload code and ScreenSheets there.
