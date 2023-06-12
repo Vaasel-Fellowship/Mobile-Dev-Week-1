@@ -1,6 +1,14 @@
 # Mobile-Dev-Week-1
 Introduction to Flutter and Dart
 
+## How to Submit
+1. Add code in the submission folder: Place all the relevant code files in the submission folder provided for the project. This may include source code files, configuration files, and any other necessary files required to run your project.
+2. Describe your project in the readme file: Create a readme.md file in the submission folder and provide a clear and concise description of your project. Include details such as the project's purpose, functionality, features, and any important instructions or dependencies required to run the project successfully.
+3. Add Screenshots: Include screenshots or images in the readme file to visually represent your project. These screenshots can showcase the user interface, different features, or any other relevant aspects of your project that you want to highlight.
+4. Create a GitHub repository: Create a new repository in your own GitHub account. This repository will serve as a version-controlled storage for your project code and readme file.
+5. Upload code and readme file to the repository: Upload all the code files and the readme.md file to the newly created GitHub repository. Make sure to maintain the folder structure and file organization similar to the submission folder.
+6. Add the repository link to the course submission folder readme file: Finally, open the course submission folder readme file and edit it to include the link to your GitHub repository. This way, the instructors or evaluators can easily access and review your project.
+
 ## Week 1: Introduction to Flutter and Dart
 ### Day 1 & 2:
 1. Learn about Flutter and its advantages. (https://youtu.be/sNtuTPyrTNU)
